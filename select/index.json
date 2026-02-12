@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "O.M.G",
+  "base_artist": "カライドスコープ",
+  "createdAt": "2026-02-12T09:58:02.020725Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "O.M.G.I.M.Y.",
+      "artist": "The Amity Affliction",
+      "has_synced": false,
+      "path": "select/01_O.M.G.I.M.Y._The_Amity_Affliction.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "O.M.G.",
+      "artist": "Keno",
+      "has_synced": false,
+      "path": "select/02_O.M.G._Keno.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "O.M.G",
+      "artist": "Keno",
+      "has_synced": false,
+      "path": "select/03_O.M.G_Keno.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "O.m.g",
+      "artist": "Hyolyn feat. Lil Boi",
+      "has_synced": false,
+      "path": "select/04_O.m.g_Hyolyn_feat._Lil_Boi.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "O.M.G",
+      "artist": "Hyolyn",
+      "has_synced": false,
+      "path": "select/05_O.M.G_Hyolyn.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "O.M.G",
+      "artist": "GOT7",
+      "has_synced": true,
+      "path": "select/06_O.M.G_GOT7.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "O.M.G (Feat. 릴보이 Of 긱스)",
+      "artist": "HYOLYN",
+      "has_synced": false,
+      "path": "select/07_O.M.G_(Feat._릴보이_Of_긱스)_HYOLYN.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "O.M.G (Live)",
+      "artist": "SHINee",
+      "has_synced": false,
+      "path": "select/08_O.M.G_(Live)_SHINee.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "O.M.G.",
+      "artist": "Tony Yayo",
+      "has_synced": false,
+      "path": "select/09_O.M.G._Tony_Yayo.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "A.O.M.G.",
+      "artist": "Loco",
+      "has_synced": true,
+      "path": "select/10_A.O.M.G._Loco.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "O.m.g (feat. Lil Boi)",
+      "artist": "HYOLYN",
+      "has_synced": false,
+      "path": "select/11_O.m.g_(feat._Lil_Boi)_HYOLYN.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "s.e.x.y.o.m.g. (feat. Debbie Sings)",
+      "artist": "Jada feat. Debbie Sings",
+      "has_synced": true,
+      "path": "select/12_s.e.x.y.o.m.g._(feat._Debbie_Sings)_Jada_feat._Debbie_Sings.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "s.e.x.y.o.m.g. (feat. Debbie Sings)",
+      "artist": "Jada",
+      "has_synced": true,
+      "path": "select/13_s.e.x.y.o.m.g._(feat._Debbie_Sings)_Jada.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Extra (Like O.M.G.)",
+      "artist": "L.O.L. Surprise!",
+      "has_synced": true,
+      "path": "select/14_Extra_(Like_O.M.G.)_L.O.L._Surprise!.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "O. M. G.",
+      "artist": "Rosi Golan",
+      "has_synced": true,
+      "path": "select/15_O._M._G._Rosi_Golan.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "O.M.G (Oh My God)",
+      "artist": "Blink",
+      "has_synced": true,
+      "path": "select/16_O.M.G_(Oh_My_God)_Blink.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "O.M.G",
+      "artist": "カライドスコープ",
+      "has_synced": false,
+      "path": "select/pl_01_O.M.G_カライドスコープ.txt"
+    }
+  ]
+}
